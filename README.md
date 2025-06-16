@@ -7,7 +7,7 @@
 
 
 > 
-
+I sincerely thank my project partner（https://github.com/njuptlogic） for their invaluable contributions, insights, and teamwork during the development of this multi-modal 3D object detection system.
 
 
 
@@ -25,8 +25,7 @@
     <img src="illustrations/1244_2.png" width="400"/>
 </div>
 
-In this paper, we xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 <div align="center">
   <img src="illustrations/pipeline.png" width="800"/>
 </div>
